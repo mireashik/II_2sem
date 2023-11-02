@@ -1,0 +1,35 @@
+{
+    "files.autoSave": "afterDelay",
+    "git.allowForcePush": true,
+    "git.confirmEmptyCommits": true,
+    "git.confirmSync": false, // убрать подтверждение
+    "git.confirmForcePush": true,
+    "markdown-preview-github-styles.colorTheme": "light",
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.preferredLightColorTheme": "Default Light+",
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "window.autoDetectColorScheme": false,
+    "typescript.inlayHints.enumMemberValues.enabled": false,
+    "notebook.compactView": false,
+    "notebook.globalToolbar": true, // тулбар снизу
+    "notebook.markup.fontSize": 14,
+    "notebook.output.fontSize": 12,
+    "notebook.output.wordWrap": false,
+    "notebook.showCellStatusBar": "visible",
+    "explorer.fileNesting.enabled": false,
+    "notebook.breadcrumbs.showCodeCells": true,
+    "notebook.cellFocusIndicator": "gutter",
+    "notebook.cellToolbarVisibility": "hover",
+    "notebook.insertToolbarLocation": "both",
+    "notebook.lineNumbers": "on",
+    "notebook.outline.showCodeCells": false,
+    "notebook.output.lineHeight": 1.2,
+    "notebook.output.scrolling": false,
+    "editor.mouseWheelZoom": true,
+    "indentRainbow.colors": [
+        "rgba(255,255,20,0.17)",
+        "rgba(127,255,127,0.17)",
+        "rgba(79,236,236,0.17)"
+    ]
+}
