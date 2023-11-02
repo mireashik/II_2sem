@@ -30,4 +30,4 @@ https://nb.anaconda.cloud
 <br>
 https://datalore.jetbrains.com
 <br>
-ttps://deepnote.com/workspace/mirea-ffe5-d61996ae-d611-425c-8bee-1bf6422626df/project/II-2480ccc6-6a1b-4590-b704-15c4e752c693
+https://deepnote.com/workspace/mirea-ffe5-d61996ae-d611-425c-8bee-1bf6422626df/project/II-2480ccc6-6a1b-4590-b704-15c4e752c693
