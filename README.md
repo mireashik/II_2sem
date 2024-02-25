@@ -22,7 +22,7 @@
 ### Ссылки
 https://online-edu.mirea.ru/course/view.php?id=10032
 <br>
-[Ссылка на все рабочие тетради](https://drive.google.com/drive/u/0/folders/1SfAAu3rz8isYCEYlDDv1fy7Lr4wAjt7_)
+[Ссылка на все рабочие тетради](https://drive.google.com/drive/u/0/folders/1SfAAu3rz8isYCEYlDDv1fy7Lr4wAjt7_) - папка вскоре удалится, а редакторы выдаваться не будут! Перезалив будет тут: https://t.me/mireashik
 <br>
 https://youtube.com/playlist?list=PLkEbIv5jhTOmWTrx2BZn73EjgsPofP5Y4
 <br>
